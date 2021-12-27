@@ -31,12 +31,12 @@ By @StarkBots
     # Rest Buttons
     buttons = [
         [InlineKeyboardButton("🔥 Start Generating Session 🔥", callback_data="generate")],
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨My Dev✨", url="https://t.me/IAM_A_JOKER")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Ls_Supportz")],
     ]
 
     # Help Message
@@ -57,11 +57,11 @@ By @StarkBots
 
 A telegram bot to generate pyrogram and telethon string session by @StarkBots
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
+Source Code : [Click Here](https://t.me/SourceCode_channel/2)
 
 Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @StarkProgrammer
+Developer : [@JOKER TG🇮🇳](https://t.me/IAM_A_JOKER)
     """
