@@ -2,7 +2,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/Akbotmakersnew/string-sessionbot"><img src="https://telegra.ph/file/7056d413f38fjpg"="2000"></a></p>
+<p align="center"><a href="https://www.github.com/Akbotmakersnew/string-sessionbot"><img src="https://telegra.ph/file/7056d413f38f54f2119d7.jpg"="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session
 
